@@ -30,7 +30,7 @@
 <br/>
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoheesu&layout=compact&theme=dracula)](https://github.com/hoheesu/github-readme-stats)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hoheesu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoheesu&show_icons=true&theme=dracula)
 </div> 
