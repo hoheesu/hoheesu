@@ -30,7 +30,9 @@
 <br/>
 <div align=center>
   <a href="https://velog.io/@hoheesu/posts">
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hoheesu)
+    <img src="https://velog-github-badge.vercel.app/badge/hoheesu"> 
   </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoheesu&show_icons=true&theme=dracula)
+<!-- ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hoheesu) -->
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoheesu&show_icons=true&theme=dracula)
 </div> 
