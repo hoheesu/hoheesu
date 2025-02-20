@@ -56,21 +56,24 @@
 
 <br/>
 
-<div>
-  <a href="https://velog.io/@hoheesu/posts">
-    <img src="https://velog-github-badge.vercel.app/badge/hoheesu"> 
-  </a>
-  <img
-  src="https://render.gitanimals.org/farms/hoheesu"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
-  
-<div height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoheesu&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" alt="kimsudang's GitHub stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoheesu&layout=compact&langs_count=6&theme=buefy" alt="Top Langs" height="200" />
-</div>
-
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://velog.io/@hoheesu/posts">
+        <img src="https://velog-github-badge.vercel.app/badge/hoheesu" height="300"> 
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://render.gitanimals.org/farms/hoheesu" width="600" height="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=hoheesu&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" alt="hoheesu's GitHub stats" height="200" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoheesu&layout=compact&langs_count=6&theme=buefy" alt="Top Langs" height="200" />
+    </td>
+  </tr>
+</table>
 
