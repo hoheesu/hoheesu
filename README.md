@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=hoheesu&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" alt="hoheesu's GitHub stats" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hoheesu&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=ffffff&theme=buefy" alt="hoheesu's GitHub stats" height="200" />
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoheesu&layout=compact&langs_count=6&theme=buefy" alt="Top Langs" height="200" />
