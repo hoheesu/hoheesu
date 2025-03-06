@@ -33,8 +33,8 @@
 <h3>🎸 DevOps </h3>
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25px">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="25px">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="25px">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="25px">
   <img src="https://img.shields.io/badge/GitHub Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white" height="25px">
 </div>
 <h3>⌨️ Tools</h3>
@@ -49,8 +49,8 @@
 
 <div><h4>🤙 About Me</h4></div>
 <div>
+  <a href="https://drive.google.com/file/d/10-20J_G94vxgPKyJ6hkk7I-R3BDXPY4d/view?usp=sharing"><img src="https://img.shields.io/badge/📋 Portfolio-80C2EE?style=flat-square&logo=&logoColor=black" height="25px"****></a>
   <a href="mailto:hoheesu@gmail.com"><img src="https://img.shields.io/badge/email-004788?style=flat-square&logo=gmail&logoColor=white" height="25px"></a>
-  <a href="https://beautiful-table-b24.notion.site/Front-End-5f33b722fc9841d9aa24dc911a91d2a1"><img src="https://img.shields.io/badge/Portfolio-010101?style=flat-square&logo=notion&logoColor=white" height="25px"></a>
   <a href="https://velog.io/@hoheesu/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" height="25px"></a>
 </div>
 
