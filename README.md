@@ -43,7 +43,8 @@
 
 <div><h4>🤙 About Me</h4></div>
 <div>
-  <a href="https://drive.google.com/file/d/10-20J_G94vxgPKyJ6hkk7I-R3BDXPY4d/view?usp=sharing"><img src="https://img.shields.io/badge/📋 Portfolio-80C2EE?style=flat-square&logo=&logoColor=black" height="25px"****></a>
+  <a href="https://drive.google.com/file/d/15QMvvyg2-v1Rd6VSeTjDp2d788k85eIX/view"><img src="https://img.shields.io/badge/📋 Portfolio-80C2EE?style=flat-square&logo=&logoColor=black" height="25px"****></a>
+  <a href="https://drive.google.com/file/d/1cf6EbhRY2QR0Cg5tNxPlVigoRntpYG-L/view"><img src="https://img.shields.io/badge/📋 Resume-eedf80?style=flat-square&logo=&logoColor=black" height="25px"****></a>
   <a href="mailto:hoheesu@gmail.com"><img src="https://img.shields.io/badge/email-004788?style=flat-square&logo=gmail&logoColor=white" height="25px"></a>
   <a href="https://velog.io/@hoheesu/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" height="25px"></a>
 </div>
