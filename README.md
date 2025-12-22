@@ -50,10 +50,28 @@
 </div>
 
 <br/>
-<a href="https://velog.io/@hoheesu/posts">
-  <img src="https://velog-github-badge.vercel.app/badge/hoheesu" height="300"> 
-</a>
-      
+<table>
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoheesu&layout=donut" alt="GitHub Stats">      
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoheesu&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">      
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://velog.io/@hoheesu/posts">
+        <img src="https://velog-github-badge.vercel.app/badge/hoheesu" height="300"> 
+      </a>
+    </td>
+    <td valign="top"> 
+      <img src="https://render.gitanimals.org/farms/hoheesu" width="600" height="300"/> 
+    </td> 
+  </tr>
+</table>
+     
+
 <!-- <table> 
   <tr> 
      <td valign="top"> 
