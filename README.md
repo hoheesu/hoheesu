@@ -61,8 +61,11 @@
   </tr>
   <tr>
     <td>
-      <a href="https://velog.io/@hoheesu/posts">
+      <!-- <a href="https://velog.io/@hoheesu/posts">
         <img src="https://velog-github-badge.vercel.app/badge/hoheesu" height="300"> 
+      </a> -->
+      <a href="https://velog.io/@hoheesu">
+        <img src="https://velog-dashboard.kro.kr/badge?username=hoheesu&type=default&assets=views,likes,posts"/>
       </a>
     </td>
     <td valign="top"> 
