@@ -65,9 +65,9 @@
 <br/>
 
 <div display="flex">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoheesu&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="150">      
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoheesu&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="150">       -->
   <a href="https://velog.io/@hoheesu/posts">
-    <img src="https://velog-github-badge.vercel.app/badge/hoheesu" height="150"> 
+    <img src="https://velog-github-badge.vercel.app/badge/hoheesu" height="200"> 
   </a>
 <!-- <img src="https://render.gitanimals.org/farms/hoheesu" height="150"/>  -->
 </div>
