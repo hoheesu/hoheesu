@@ -10,7 +10,7 @@
 
 - **매니패스트**
   
-  >FullStack Developer | 2025.03 ~ 2026.03 | [Manyfast](https://manyfast.io/ko/)
+  >FullStack Developer | 2025.03 ~ 2026.02 | [Manyfast](https://manyfast.io/ko/)
 
 
 <h2>💿 Tech Stack</h2>
